@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/7-Days-To-Deadline/",
+    "build": "vite build --base=/html-css-108-NatalinaMatioshko/",
     "preview": "vite preview"
   },
   "devDependencies": {
